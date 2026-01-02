@@ -1,12 +1,17 @@
 {
-  "licenses": [
-    {
-      "hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-      "status": "active",
-      "expiry": "2030-12-31",
-      "tier": "platinum",
-      "org": "TBHIDC_Internal_Ops",
-      "features": ["full_access", "zero_day_scrapers", "export_pdf"]
-    }
-  ]
+  "data": {
+    "licenses": [
+      {
+        "hash": "79672d8381e02513e7941767f7692499eeb7af280a71861235c3efda72ee621a",
+        "status": "active",
+        "expiry": "2030-12-31",
+        "tier": "platinum",
+        "org": "Internal_Ops",
+        "features": [
+          "all"
+        ]
+      }
+    ]
+  },
+  "signature": "Vw1WqchLdg1lEXfPMJMSL4Cla7815pUex+t4Zi03uiv6UKS9MM4/X6WsZkPdSVG5k9yILJTcflP1wuR4GCPgDA=="
 }
