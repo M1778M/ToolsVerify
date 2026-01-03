@@ -2,7 +2,7 @@
   "data": {
     "licenses": [
       {
-        "hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "hash": "79672d8381e02513e7941767f7692499eeb7af280a71861235c3efda72ee621a",
         "status": "active",
         "expiry": "2030-12-31",
         "tier": "platinum",
@@ -13,5 +13,5 @@
       }
     ]
   },
-  "signature": "22kMJT2oPx9yjXmhL6zMmWzb+SiDTHCzdVbvFNKx9Ct3QbtgqopCfBRUide7p8Q/7g04PbrVuhU3rlGiJsXQAQ=="
+  "signature": "g+jE/miLxaory/zj1oVJ1dQQ28QIGXnydXjp5gaYKVdzkXEPzbN+iKzpZ9NtDUYqw1jZtTkM+vNiSo9gDrBFAA=="
 }
